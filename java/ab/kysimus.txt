@@ -1,0 +1,60 @@
+NR.	KÜS.NR.	KÜSIMUS	VAS.NR.	VASTUS	Pilt- failinimi
+1	1	Milline on õie kuju?	1	kellukjas	kellukjas.JPG
+2	1		2	huuljas	huuljas.JPG
+3	1		3	liblikjas	liblikjas.JPG
+4	1		4	keelõis	keelois.JPG
+5	1		5	putkõis	putkois.JPG
+6	1		6	kiirjas lahklehine	kiirjas.JPG
+7	1		7	lehterjas	lehterjas.JPG
+8	1		8	kiirjas, alusel kokku kasvanud	kiirjasll.JPG
+9	2	Kui palju on õiel kroonlehti, nende puudumisel tupp- või perigoonilehti?	1	puuduvad	
+10	2		2	kaks	
+11	2		3	kolm	
+12	2		4	neli	
+13	2		5	viis	
+14	2		6	rohkem kui viis	
+15	3	Milline on õite värvus?	1	sinine	
+16	3		2	kollane	
+17	3		3	punane	
+18	3		4	valge	
+19	3		5	roosa	
+20	3		6	lilla (violetne)	
+21	3		7	hallikas	
+22	3		8	rohekas	
+23	3		9	pruun	
+24	4	Kuidas asetsevad õied varrel?	1	üksikult	
+25	4		2	õisikus	
+26	5	Milline on õisiku tüüp?	1	kobar	kobar.JPG
+27	5		2	pööris	pooris.JPG
+28	5		3	kännas	kannas.JPG
+29	5		4	sarikas või ebasarikas	sarikas.JPG
+30	5		5	pähik	pahik.JPG
+31	5		6	tõlvik	tolvik.JPG
+32	5		7	pea ehk tähk	pea.JPG
+33	5		8	urb	urb.JPG
+34	5		9	nutt	nutt.JPG
+35	5		10	korvik (korvõisik)	korvik.JPG
+36	6	Milline on vilja tüüp?	1	mari	mari.JPG
+37	6		2	õunvili	ounvili.JPG
+38	6		3	luuvili	luuvili.JPG
+39	6		4	kukkur	kukkur.JPG
+40	6		5	kaun	kaun.JPG
+41	6		6	kõder või kõdrake	koder.JPG
+42	6		7	kupar	kupar.JPG
+43	6		8	pähklike	pahklike.JPG
+44	6		9	seemnis	seemnis.JPG
+45	6		10	pähkel	pahkel.JPG
+46	7	Kas taimel on liht- või liitlehed?	1	lihtlehed	lihtleht.JPG
+47	7		2	liitlehed	liitleht.JPG
+48	8	Milline on lehe roodumine?	1	sulgroodne	sulgr.JPG
+49	8		2	sõrmroodne	sormr.JPG
+50	8		3	kaarroodne	kaarr.JPG
+51	8		4	rööproodne	roopr.JPG
+52	9	Milline on leheseis?	1	kodarik	kodarik.JPG
+53	9		2	männases	mannases.JPG
+54	9		3	vahelduv	vahelduv.JPG
+55	9		4	vastak	vastak.JPG
+56	10	Kas vars on rohtne või puitunud?	1	rohtne	
+57	10		2	puitunud	
+58	11	Kas õiekate on lihtne või kaheli?	1	lihtne	lihtne.JPG
+59	11		2	kaheli	kaheli.JPG
